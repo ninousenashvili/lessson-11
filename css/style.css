@@ -88,3 +88,97 @@
     font-size: 20px;
     width: 449px;
 }
+
+/* 4th section styles */
+.question1 {
+    font-size: 40px;
+    margin-top: 126px;
+    margin-bottom: 62px;
+
+}
+
+.card-img {
+    width: 444px;
+    height: 302px;
+}
+
+.card-btn {
+    width: 164px;
+    height: 40px;
+    font-size: 14px;
+}
+
+.price {
+    font-size: 22px;
+    margin-left: 12px;
+}
+
+.card-body {
+    margin-top: 73.5px;
+
+}
+
+.card-title {
+    font-size: 22px;
+    margin-bottom: 12px;
+}
+
+.card-text {
+    margin-bottom: 40px;
+    font-size: 16px;
+}
+
+.flex-boxes {
+    gap: 10px;
+    margin-bottom: 59px;
+
+
+}
+
+.flex-boxes2 {
+    margin-bottom: 106px;
+    gap: 10px;
+}
+
+.bottom-btn {
+    width: 255px;
+    height: 68px;
+    font-size: 18px;
+}
+
+.bottom-div {
+    margin-bottom: 161px;
+
+}
+
+/* last section styles */
+.image-wraper2 {
+    background-image: url(../images/Rectangle\ 274.png);
+    height: 564px;
+    width: 100%;
+    padding: 150px;
+    gap: 49px;
+}
+
+.card-box {
+    width: 250px;
+    height: 250px;
+}
+
+.card-img1 {
+    width: 66.24px;
+    height: 73.8px;
+    margin-top: 20px;
+    margin-bottom: 16.7px;
+}
+
+.top-title {
+    width: 140px;
+    font-size: 20px;
+    margin-bottom: 18.5px;
+
+}
+
+.bottom-title {
+    width: 140px;
+}
