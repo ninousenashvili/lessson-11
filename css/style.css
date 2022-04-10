@@ -172,8 +172,8 @@
     /* height: 564px; */
     max-width: 1920px;
     width: 100%;
-    padding-top: 120px;
-
+    padding-top: 100px;
+    padding-bottom: 100px;
     /* padding: 40px; */
     gap: 49px;
 }
