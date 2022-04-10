@@ -1,5 +1,6 @@
 .header-image {
     background-image: url(../images/Untitled-1.png);
+    max-width: 1920px;
     width: 100%;
     height: 1080px;
     margin-bottom: 139px;
@@ -42,17 +43,13 @@
     margin-left: 235px;
 }
 
-.btn {
+.header-btn {
     width: 255px;
     height: 68px;
     font-size: 27px;
 }
 
-.icon-a {
-    font-size: 18px;
-    margin-top: 27px;
 
-}
 
 /* second section styles */
 
@@ -65,6 +62,12 @@
     margin-bottom: 72px;
     font-size: 20px;
 }
+
+.icon-a {
+    font-size: 18px;
+    margin-top: 27px;
+}
+
 
 /* 3rd section styles */
 .image-wraper {
@@ -166,6 +169,7 @@
 .image-wraper2 {
     background-image: url(../images/Rectangle\ 274.png);
     /* height: 564px; */
+    max-width: 1920px;
     width: 100%;
     padding-top: 120px;
 
